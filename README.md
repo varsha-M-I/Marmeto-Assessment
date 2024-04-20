@@ -24,4 +24,4 @@ Take a moment to review the project structure:
 - `script.js`: JavaScript file for scripting logic.
 - `README.md`: Documentation of the project.
 
-open the html file  in the browser of your choice to see the results
+open the html file  in the browser of your choice to see the results. You can also see the result on https://marmeto-assessment-eta.vercel.app/ deployed on vercel.
